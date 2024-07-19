@@ -25,7 +25,7 @@ object NetworkingModule {
             .addInterceptor {
                 val updatedRequest = it.request().newBuilder()
                     .addHeader("CustomHeader", "CustomValue")
-                    .addHeader("x-api-key", "live_kxHbFgrMyDKms5oUXsXqQaO6khkmXQfhvplAWjUHGKMaPKNRiIiFw7gH3uW2WIRv")
+                    .addHeader("x-api-key", "example_api_key")
                     .build()
                 it.proceed(updatedRequest)
             }
