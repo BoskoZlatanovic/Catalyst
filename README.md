@@ -9,8 +9,6 @@ Welcome to **Catapult**, an Android application designed to provide users with a
 4. [Usage](#usage)
 5. [Technologies Used](#technologies-used)
 6. [API Documentation](#api-documentation)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 
